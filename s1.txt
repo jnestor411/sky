@@ -5,7 +5,10 @@ Vlans:
        Id: 10
      Blue:
         Id: 20
-
+ 
+     Yellow:
+        id: 30
+ 
 Ports:
    1: [10]
    2: [20]
